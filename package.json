@@ -1,0 +1,26 @@
+{
+"name": "lfkv-093bf",
+"version": "1.0.0",
+"description": "The AI-Powered Personalized News App curates news articles and headlines based on user's interests, reading habits, and preferences, providing a tailored news reading experience and helping users stay informed on topics they care about.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/donofriod199/AI-Powered-Personalized-News-App.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "donofriod199",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
